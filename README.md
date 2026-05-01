@@ -1,0 +1,2 @@
+# StokPintar
+Manajemen Stok
